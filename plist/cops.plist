@@ -11,7 +11,7 @@
           <key>kind</key>
           <string>software-package</string>
           <key>url</key>
-          <string>https://tinyurl.com/aaa12o3p2</string>
+          <string>https://archive.org/download/h5fridaCOPS1334/h5fridaCOPS1334.ipa</string>
         </dict>
         <dict>
           <key>kind</key>
@@ -35,7 +35,7 @@
         <key>kind</key>
         <string>software</string>
         <key>title</key>
-        <string>cops</string>
+        <string>Critical Ops</string>
       </dict>
     </dict>
   </array>
